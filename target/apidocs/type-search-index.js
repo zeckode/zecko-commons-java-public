@@ -1,1 +1,0 @@
-typeSearchIndex = [{"p":"co.zecko.common.java.pojo","l":"AbstractEntry"},{"l":"All Classes","url":"allclasses-index.html"},{"p":"co.zecko.common.java.pojo","l":"BaseDataBaseEntry"},{"p":"co.zecko.common.java.pojo","l":"BaseEntry"},{"p":"co.zecko.common.java.pojo","l":"ErrorEntry"},{"p":"co.zecko.common.java.pojo","l":"Extensions"}]
