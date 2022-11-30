@@ -3,13 +3,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>co.zecko.common.java</groupId>
-    <artifactId>client</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <groupId>co.zecko.common</groupId>
+    <artifactId>public</artifactId>
+    <version>0.0.1-RELEASE</version>
     <packaging>jar</packaging>
 
-    <name>Zecko Common Java</name>
-    <description>Zecko Common Java</description>
+    <name>Zecko Common Java Public</name>
+    <description>Zecko Common Java Public</description>
     <url>https://github.com/zeckode/zecko-commons-java-public</url>
 
     <licenses>

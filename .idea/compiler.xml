@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="zecko-commons-java-public" target="1.5" />
+      <module name="zecko-commons-java-public" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
