@@ -7,10 +7,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="public" />
         <module name="zecko-commons-java-public" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="public" target="11" />
       <module name="zecko-commons-java-public" target="11" />
     </bytecodeTargetLevel>
   </component>
