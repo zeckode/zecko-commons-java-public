@@ -18,5 +18,4 @@ public class ErrorEntry implements Serializable {
 
     String message;
 
-    Extensions extensions;
 }
