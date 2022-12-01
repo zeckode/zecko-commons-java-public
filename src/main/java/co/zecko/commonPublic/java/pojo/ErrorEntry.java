@@ -1,4 +1,4 @@
-package co.zecko.common.java.pojo;
+package co.zecko.commonPublic.java.pojo;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.*;
